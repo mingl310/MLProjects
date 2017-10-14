@@ -22,3 +22,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+WEB-INF/
+src/main/resources/static/
+src/main/resources/templates/
